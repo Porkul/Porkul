@@ -1,0 +1,5 @@
+- 👋 Hi, I’m a knowledge seeker and a student in the faculty of web technologies at the Estonian Entrepreneurship University of Applied Sciences @Porkul
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning GitHub and Javascript at the Codeacademy in Full-Stack Engineer career path and also solidify the material with the course "The Web Developer Bootcamp 2021" on Udemy.
+- 💞️ I’m looking to collaborate on projects, expanding my portfolio.
+- 📫 Please contact me by emmai: katrin.porkul@icloud.com
