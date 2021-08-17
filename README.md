@@ -41,6 +41,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Porkul&show_icons=true&locale=en" alt="Porkul" /></p>
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Porkul=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```
+
