@@ -1,4 +1,4 @@
-Hi ,!https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif I'm Katrin Porkul
+Hi , I'm Katrin Porkul
 
 
 - 👋 Hi, I’m a student in the faculty of web technologies at the Estonian Entrepreneurship University of Applied Sciences @Porkul
