@@ -1,4 +1,4 @@
-[image](https://user-images.githubusercontent.com/86647070/129706147-1fb23b65-c182-4782-b5bd-cef0081164be.png)
+![image](https://user-images.githubusercontent.com/86647070/129706147-1fb23b65-c182-4782-b5bd-cef0081164be.png)
 
 
 - 👋 Hi, I’m a student in the faculty of web technologies at the Estonian Entrepreneurship University of Applied Sciences @Porkul
