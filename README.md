@@ -1,4 +1,4 @@
-Hi , I'm Katrin Porkul
+Hi , <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Katrin Porkul
 
 
 - 👋 Hi, I’m a student in the faculty of web technologies at the Estonian Entrepreneurship University of Applied Sciences @Porkul
