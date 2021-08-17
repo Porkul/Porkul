@@ -4,7 +4,7 @@
 - 🎓I’m a student in the faculty of web technologies at the Estonian Entrepreneurship University of Applied Sciences @Porkul
 - 🌱 I’m currently learning react and working on my portfolio.
 - 📫 How to reach me: katrin.porkul@icloud.com
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/katrin-porkul-0bb99a1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katrin-porkul" height="30" width="40" /></a>
@@ -39,3 +39,5 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Porkul&show_icons=true&locale=en" alt="Porkul" /></p>
