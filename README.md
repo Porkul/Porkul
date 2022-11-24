@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Estonia</h3>
 
 - 🎓I’m a student in the faculty of web technologies at the Estonian Entrepreneurship University of Applied Sciences
+- ❤️ Here is my collection of my first and rather old projects that make me feel nostalgic.
 - 🌱 I’m currently have suspended work on public projects as I work for a company developing commercial applications. 
 - 📫 How to reach me: katrin.porkul@icloud.com
 
